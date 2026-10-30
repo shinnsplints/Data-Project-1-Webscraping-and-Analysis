@@ -27,11 +27,7 @@ Numpy
 
 BeautifulSoup4
 
-Re
-
 Requests
-
-Time
 
 Matplotlib
 
